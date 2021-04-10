@@ -26,3 +26,5 @@ Edit encoder/Decoder to parse DDC frame arrays.
 
 
 
+some of the code is adapted from https://github.com/chrisdonahue/ddc
+some is inspired by https://github.com/stonyhu/DanceRevolution
